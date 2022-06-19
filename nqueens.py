@@ -1,5 +1,3 @@
-
-# should work with either one!
 from stack_array import Stack
 #from stack_linked import Stack
 
